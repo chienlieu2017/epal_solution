@@ -20,11 +20,10 @@
 			<xpath expr="//title" position="replace">
 				<title>Epal</title>
 			</xpath>
-			<!--  xpath expr="//link" position="replace">
+			<xpath expr="//link" position="replace">
 				<link rel="shortcut icon" href="/epal_module/static/src/img/favicon.png"
 					type="image/x-icon" />
 			</xpath>
-			-->
 		</template>
 
 		<template id="custom_title" name="change title" inherit_id="web.layout">
